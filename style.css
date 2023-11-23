@@ -24,26 +24,28 @@ padding: 30px;
 .topo{
 
 background-color: #ff70a6;
-text-align: center;
+text-align: centeru
 }
 
 .nav {
 
     background-color: #ff9770;
+    display: flex;
+    justify-content: space-around;
 
 }
 
 .principal{
 
     background-color: #ffd670;
-    }
+}
 
-    .rodape{
+.rodape{
 
-        background-color: #e9ff70;
-        text-align: center;
+    background-color: #e9ff70;
+    text-align: center;
 
-    }
+}
 
     /* coolors.co/  */
     /* adobe colors */
