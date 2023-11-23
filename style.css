@@ -1,5 +1,6 @@
 body{
 background-color: #70d6ff;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 
@@ -40,6 +41,7 @@ text-align: center;
     .rodape{
 
         background-color: #e9ff70;
+        text-align: center;
 
     }
 
