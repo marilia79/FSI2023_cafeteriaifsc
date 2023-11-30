@@ -1,3 +1,9 @@
+:root{
+
+    scroll-behavior: smooth;
+}
+
+
 body{
 background-color: #70d6ff;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -38,11 +44,24 @@ text-align: centeru
 .principal{
 
     background-color: #ffd670;
+    text-align: center;
+}
+
+.cardapio {
+
+    background-color: pink;
+    text-align: center;
+}
+
+.sobre{
+
+    background-color: #d3ec46;
+    text-align: center;
 }
 
 .rodape{
 
-    background-color: #e9ff70;
+    background-color: #ee6136;
     text-align: center;
 
 }
@@ -50,7 +69,27 @@ text-align: centeru
     /* coolors.co/  */
     /* adobe colors */
     /* paletton */
+/* Formatar tabela */
+table{
+width: 100%;
+border: 1px solid #ffffff;
 
+}
+
+td{
+    padding: 20px;
+    background-color: rgb(240, 73, 101);
+    border-bottom: 1px solid rgb(20, 5, 8);
+
+}
+
+th{
+    background-color: #ff70a6;
+    color: #ffffff;
+    padding: 20px;
+
+
+}
 
 
 
